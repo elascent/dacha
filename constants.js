@@ -1,0 +1,7 @@
+const GROUP_ID = -388059030;
+const BUILAT = 132843936;
+const OVEATOR = 50976154;
+
+const AUTH_USER_LIST = [BUILAT, OVEATOR];
+
+module.exports = { GROUP_ID, AUTH_USER_LIST };
